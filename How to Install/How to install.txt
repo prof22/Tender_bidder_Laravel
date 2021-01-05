@@ -1,0 +1,12 @@
+Follow this video to install all necessary files (https://www.youtube.com/watch?v=1QyVk7JN7dE)
+After Installing
+1. Xmapp
+2. Composer
+3. Laravel Global
+then
+4. Run Xampp
+5. Click on mysql Admin to create Database name it (bd_tender)
+6. extract this file to C://Xampp/htdocs/
+7. click on Apachi Admin to run the website
+
+Having Issues.. Call me.. I will also do a video on how to run the program.. First install the above program
